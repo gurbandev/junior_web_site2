@@ -1,0 +1,22 @@
+.b{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.btr5{
+    border: 1px solid transparent;
+    border-radius: 3px;
+}
+
+.br5{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.br{
+    border-radius: var(--radius);
+}
+
+.not-bor{
+    border: none;
+}
